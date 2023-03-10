@@ -1,7 +1,7 @@
 const BottomNav = () => {
   return (
     <nav className="bottom-nav">
-      <a className="navbar-brand" href="/">
+      {/* <a className="navbar-brand" href="/">
         <i className="fa fa-home"></i>
       </a>
       <a className="navbar-brand" href="/">
@@ -15,7 +15,7 @@ const BottomNav = () => {
       </a>
       <a className="navbar-brand" href="/">
         <i className="fa fa-user"></i>
-      </a>
+      </a> */}
     </nav>
   );
 };
